@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 - unsure how to use or write code in swift
-- insutrcutions were very unclear and skipper certain steps
+- instructions were very unclear and skipped certain steps
 - not familiar with xcode interface
 - had trouble uploading gif; but I was able to figure it out
 
