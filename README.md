@@ -4,7 +4,7 @@ Tip Calculator App is a tip calculator application for iOS.
 
 Submitted by: Faustina Ejiofor
 
-Time spent: ~2 hours spent in total
+Time spent: ~2.5 hours spent in total
 
 ## User Stories
 
@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 - unsure how to use or write code in swift
 - insutrcutions were very unclear and skipper certain steps
 - not familiar with xcode interface
-- having trouble uploading gif; unsure why it is not working
+- had trouble uploading gif; but I was able to figure it out
 
 
 ## License
