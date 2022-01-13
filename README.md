@@ -38,6 +38,7 @@ Describe any challenges encountered while building the app.
 - unsure how to use or write code in swift
 - insutrcutions were very unclear and skipper certain steps
 - not familiar with xcode interface
+- having trouble uploading gif; unsure why it is not working
 
 
 ## License
